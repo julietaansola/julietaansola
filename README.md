@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Tap**
 
-- 🌱 I’m currently learning **Go, CNNA **
+- 🌱 I’m currently learning **Go, CNNA**
 
 - 👨‍💻 Mi profile [https://www.linkedin.com/in/julieta-ansola-berreaute-121294195/](https://www.linkedin.com/in/julieta-ansola-berreaute-121294195/)
 
