@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Julieta</h1>
 <h3 align="center">DevOps engineer passionate about technology and automation, with experience in networking and programming.</h3>
 
-- 🔭 I’m currently working on **Tap**
+- 🔭 I’m currently working on **Amazon Web Services** as a Solution Architect
 
 - 🌱 I’m currently learning **Go, CNNA**
 
