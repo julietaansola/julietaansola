@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go, CNNA**
 
-- 👨‍💻 Mi profile [https://www.linkedin.com/in/julieta-ansola-berreaute-121294195/](https://www.linkedin.com/in/julieta-ansola-berreaute-121294195/)
+- 👨‍💻 Mi profile [https://www.linkedin.com/in/julieta-ansola-berreaute-121294195/](www.linkedin.com/in/julieta-ansola)
 
 - 💬 Ask me about **AWS, Python, React, JS, Jenkins, Linux, Terraform**
 
